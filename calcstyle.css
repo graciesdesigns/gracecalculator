@@ -1,0 +1,32 @@
+body {
+    background: linear-gradient(to right, pink, white);
+}
+h3,button {
+    font-family: 'Poppins';
+}
+button {
+    width:70px;
+    height:70px;
+    margin:1px;
+    border-color: hotpink;
+    border-radius:10px;
+    background-color: hotpink;
+    font-size: 20px;
+    font-weight:700;
+    color:aliceblue
+}
+#calculator {
+    display: inline;
+    font-size:40px;
+    font-weight:700;
+    border: 10px;
+    border-color:black;
+     font-family: 'Poppins', sans-serif;
+}
+#divide {
+    margin-left: 9px;
+}
+#negative {
+    width:150px;
+  
+}
